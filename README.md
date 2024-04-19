@@ -1,16 +1,38 @@
-### Hi there 👋
+# Ali Kazemi
 
-<!--
-**alikaz3mi/alikaz3mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! Welcome to my GitHub profile! I'm Ali, an AI/NLP enthusiast passionate about driving innovation through tech solutions. Currently rocking the CTO hat at ParsTech AI, where I lead the charge in crafting intelligent AI systems and streamlining tech workflows.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- **LinkedIn:** [Ali Kazemi](https://www.linkedin.com/in/ali-kazemi-218390138/)
+- **Email:** [alikazemi@ieee.org](mailto:alikazemi@ieee.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Experience
+- **Chief Technology Officer at ParsTech AI (Feb 2023 - Present)**
+  - Created an AI surveillance system blending people counting and license plate recognition.
+  - Streamlined deployments and boosted system reliability with DevOps best practices.
+  - Nurtured a culture of continuous learning through weekly study groups.
+
+- **Machine Learning Product Owner (Mar 2022 - Feb 2023)**
+  - Led the rollout of a custom human detection model hitting 94% accuracy.
+  - Crafted AshenasAI, a robust eKYC product suite.
+
+- **Machine Learning Engineer (Jul 2021 - Mar 2022)**
+  - Developed real-time gesture recognition models for edge devices.
+  - Enhanced ALPR solutions for top-notch surveillance systems.
+
+## 🛠 Skills
+- **Languages & Frameworks:** Python, TensorFlow, PyTorch, Keras
+-	Cloud & Edge Computing: AWS (EC2), Microsoft AzureML, Jetson Nano, Jetson Xavier
+-	API Development: FastAPI, gRPC
+-	Task Management: Celery, Redis
+-	Containerization & CI/CD: Docker, Docker Compose, Git, GitLab CI/CD, Package Registry, Container Registry
+-	Big Data: Apache Hadoop MapReduce
+-	Monitoring & Security: Grafana, Prometheus, Gray-logger, Pyarmor, Prometheus-client, Lagom
+
+
+Feel free to check out my projects and hit me up if you have any questions or want to team up on future endeavors!
+
+---
+
+This README gives you a glimpse into my professional journey. For deeper dives or project collaborations, feel free to drop me a line using the contact info above. Let's shape the future together! 🌟
