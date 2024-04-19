@@ -39,7 +39,6 @@ This README gives you a glimpse into my professional journey. For deeper dives o
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=alikaz3mi&theme=github_dark&count_private=true&show_icons=true&hide_rank=false" alt="Ali kazemi's github stats" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alikaz3mi&theme=blue-green&count_private=true&show_icons=true&hide_rank=false" alt="Ali kazemi's github stats" /> <br/>
   
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?usernamealikaz3mi&theme=blue-green&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&card_width=445" alt="Ali Kazemi's Top Langs" />
 </p> -->
