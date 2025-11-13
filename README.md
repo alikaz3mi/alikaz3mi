@@ -1,6 +1,6 @@
 # Ali Kazemi
 
-Hey there! Welcome to my GitHub profile! I'm Ali, an AI/NLP enthusiast passionate about driving innovation through tech solutions. Currently rocking the CTO hat at ParsTech AI, where I lead the charge in crafting intelligent AI systems and streamlining tech workflows.
+Hi, I'm Ali! I'm a product-focused technical leader in the AI/NLP space. As a Technical Product Manager at ParsTech AI, I specialize in translating user needs into scalable, intelligent software.
 
 ## 🚀 About Me
 - **LinkedIn:** [Ali Kazemi](https://www.linkedin.com/in/ali-kazemi-218390138/)
