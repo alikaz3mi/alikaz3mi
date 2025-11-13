@@ -8,7 +8,8 @@ Hey there! Welcome to my GitHub profile! I'm Ali, an AI/NLP enthusiast passionat
 
 
 ## 💼 Experience
-- **Chief Technology Officer at ParsTech AI (Feb 2023 - Present)**
+- **Technical Product Manager at ParsTech AI (Feb 2023 - Present)**
+  - Technical Product Manager of ParsChat   
   - Created an AI surveillance system blending people counting and license plate recognition.
   - Streamlined deployments and boosted system reliability with DevOps best practices.
   - Nurtured a culture of continuous learning through weekly study groups.
